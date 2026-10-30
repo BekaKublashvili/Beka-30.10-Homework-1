@@ -1,0 +1,181 @@
+body{
+    background: linear-gradient(to left, rgb(117, 7, 55),rgb(46, 49, 146));
+}
+.container1{
+    background-color: rgb(246, 218, 245);
+    width: 190px;
+    border-radius: 15px;
+    padding: 20px;
+    height: 365px;
+}
+.container1 h1{
+    margin-bottom: 1px;
+}
+.container1 h2{
+    font-size: 30px;
+    margin-top: 1px;
+}
+.container1 button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+.container2{
+width: 190px;
+background-color: rgb(253, 253, 253);
+padding: 20px;
+border-radius: 20px;
+height: 365px;
+
+}
+.container2 button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none; 
+    background-color: rgb(246, 218, 245);   
+    margin-top: 31px;
+}
+.container3{
+width: 190px;
+background-color: rgb(253, 253, 253);
+padding: 20px;
+border-radius: 20px; 
+height: 365px;
+}
+.container3 button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none; 
+    background-color: rgb(246, 218, 245);
+    margin-top: 25px;   
+}
+.container4{
+width: 220px;
+background-color: rgb(253, 253, 253);
+padding: 20px;
+border-radius: 20px;
+height: 365px; 
+}
+.container4 p{
+    width: 160px;
+}
+.container4 button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none; 
+    background-color: rgb(246, 218, 245);  
+    margin-top: 22px;
+}
+
+.cards1{
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.container5{
+width: 220px;
+background-color: rgb(7, 45, 7);
+padding: 20px;
+border-radius: 20px;
+height: 370px;  
+}
+.container5 h1{
+    color: white;
+}
+.container5 p{
+    width: 160px;
+    color: white;
+}
+.container5 button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none; 
+    background-color: rgb(255, 255, 255);
+    font-weight: bolder;
+    color: rgb(7, 45, 7);
+}
+.container6{
+width: 220px;
+background-color: #c6d7b1;
+padding: 20px;
+border-radius: 20px; 
+height: 370px; 
+}
+.container6 h1{
+    color: #072d06;
+}
+.container6 p{
+    width: 160px;
+    color: #072d06;
+}
+.container6 button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none; 
+    background-color: #072d06;
+    font-weight: bolder;
+    color: white;
+    margin-top: 20px;
+}
+.container7{
+width: 220px;
+background-color: #c6d7b1;
+padding: 20px;
+border-radius: 20px; 
+height: 370px; 
+}
+.container7 h1{
+    color: #072d06;
+}
+.container7 p{
+    width: 160px;
+    color: #072d06;
+}
+.container7 button{
+     width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none; 
+    background-color: #072d06;
+    font-weight: bolder;
+    color: white;
+    margin-top: 25px;
+}
+.container8{
+width: 220px;
+background-color: #c6d7b1;
+padding: 20px;
+border-radius: 20px; 
+height: 370px; 
+}
+.container8 h1{
+    color: #072d06;
+}
+.container8 p{
+    width: 160px;
+    color: #072d06;
+}
+.container8 button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none; 
+    background-color: #072d06;
+    font-weight: bolder;
+    color: white;
+    margin-top: 50px;
+}
+
+.cards2{
+    display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
